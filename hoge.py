@@ -1,1 +1,1 @@
-print("hoge6")
+print("hoge7")
